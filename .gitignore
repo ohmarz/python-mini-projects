@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 venv/
+# ignore auto-generated text data files
+*.txt
